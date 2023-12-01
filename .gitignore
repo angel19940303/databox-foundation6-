@@ -1,0 +1,16 @@
+
+## Grunt dependancies
+node_modules
+
+
+## Build folder
+dist
+
+
+node_builder/build_src
+node_builder/starter.sh
+node_builder/log.txt
+
+.DS_Store
+.cache
+

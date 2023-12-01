@@ -1,0 +1,94 @@
+url : ""
+
+menu :
+  - name : Getting Started
+    url  : "/"
+
+  - name : Configuration Overview
+    url  : "/config/"
+
+  - name : Themeing DateBox
+    url  : "/themes/"
+
+  - name : Localization
+    url  : "/i18n/"
+
+  - name : Date & Time Formats
+    url  : '/formats/'
+
+  - name : Default Values
+    url  : "/defaults/"
+
+  - name : Date & Time Limits
+    url  : "/limits/"
+
+  - name : Callbacks, Listeners, Functions, & Triggers
+    url  : "/callbacks/"
+
+  - name : Full Option List
+    url  : "/api/"
+
+  - name : Download Builder
+    url  : "/builder/"
+
+  - name : Adding Frameworks
+    url  : "/frames/"
+
+  - name : JSDoc Documentation
+    url  : "/jsdoc/"
+
+sample :
+  - name : "- Bootstrap v4"
+    url  : "/samples/bootstrap4/"
+
+  - name : "- Bootstrap v3"
+    url  : "/samples/bootstrap3/"
+
+  - name : "- Bulma"
+    url  : "/samples/bulma/"
+
+  - name : "- Fomantic UI"
+    url  : "/samples/fomanticui/"
+
+  - name : "- Foundation v6"
+    url  : "/samples/foundation6/"
+
+  - name : "- jQueryMobile"
+    url  : "/samples/jqm/"
+
+  - name : "- UIKit"
+    url  : "/samples/uikit/"
+
+demo :
+  - name : Option Demos
+    url  : "/optDemo/"
+
+  - name : " - CalBox"
+    url  : "/optDemo/calBox/"
+
+  - name : " - SlideBox"
+    url  : "/optDemo/slideBox/"
+
+  - name : " - DateBox"
+    url  : "/optDemo/dateBox/"
+
+  - name : " - TimeBox"
+    url  : "/optDemo/timeBox/"
+
+  - name : " - DateTimeBox"
+    url  : "/optDemo/datetimeBox/"
+
+  - name : " - FlipBox"
+    url  : "/optDemo/flipBox/"
+
+  - name : " - TimeFlipBox"
+    url  : "/optDemo/timeflipBox/"
+
+  - name : " - DateTimeFlipBox"
+    url  : "/optDemo/datetimeflipBox/"
+
+  - name : " - DurationBox"
+    url  : "/optDemo/durationBox/"
+
+  - name : " - DurationFlipBox"
+    url  : "/optDemo/durationflipBox/"
